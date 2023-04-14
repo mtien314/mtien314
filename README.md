@@ -11,3 +11,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 5698tien@gmail.com
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mtien314&theme=radical)](https://git.io/streak-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mtien314&show_icons=true&theme=radical)
