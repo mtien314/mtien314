@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-
-- 🔭 I’m graduted student at University of Science
--     I'm working as AI engineer
-- 🌱 I’m currently focus on NLP, LLM 
+- 👨‍💻 I'm working as AI engineer
+- 🌱 Currently, I’m focus on NLP, LLM
 - 📫 How to reach me: 5698tien@gmail.com
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mtien314&theme=radical)](https://git.io/streak-stats)
