@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👨‍💻 I'm working as AI engineer
+- 👨‍💻 I'm AI engineer with a huge love for python, tensorflow, pytorch, unsloth ^^
 - 🌱 Currently, I’m focus on NLP, LLM special MLops. I'm eager to learning serving model, deploy model to production
 - 📫 How to reach me: 5698tien@gmail.com
 
