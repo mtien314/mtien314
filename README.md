@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 👨‍💻 I'm working as AI engineer
-- 🌱 Currently, I’m focus on NLP, LLM
+- 🌱 Currently, I’m focus on NLP, LLM special MLops. I'm eager to learning serving model, deploy model to production
 - 📫 How to reach me: 5698tien@gmail.com
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mtien314&theme=radical)](https://git.io/streak-stats)
